@@ -1,4 +1,5 @@
 package main;
+
 public class QuickSort implements SortAlgorithms {
 @Override
     public <T extends Comparable<T>> void sort(T[] array) {
