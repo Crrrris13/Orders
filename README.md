@@ -1,7 +1,7 @@
 ## Hoja de Trabajo #3 - Comparación de Algoritmos de Sort
 
 ### Autores
-- Fabricio Estrada 
+- Fabricio Estrada 25230
 - Cristopher Chavez 
 
 ### Fecha

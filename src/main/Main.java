@@ -26,7 +26,6 @@ public class Main {
         static void generarNumeros(String archivo, int cantidad) throws IOException {
         Random rand = new Random();
         BufferedWriter writer = new BufferedWriter(new FileWriter(archivo));
-        
         for (int i = 0; i < cantidad; i++) {
             int numero = rand.nextInt(10000); 
             writer.write(numero + "\n");

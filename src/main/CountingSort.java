@@ -3,7 +3,6 @@ package main;
 public class CountingSort implements SortAlgorithms{
     
     @Override
-    @SuppressWarnings("unchecked")
     public <T extends Comparable<T>> void sort(T[] array) {
         if (array == null || array.length <= 1) {
             return;

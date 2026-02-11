@@ -66,6 +66,6 @@ public class MergeSort implements SortAlgorithms {
     
     @Override
     public String getName() {
-        return "Merge Sort (Iterativo)";
+        return "Merge Sort";
     }
 }
