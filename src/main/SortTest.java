@@ -1,6 +1,21 @@
 package main;
+
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
+
+/**
+ * Pruebas unitarias para los algoritmos de ordenamiento.
+ * 
+ * Se verifican distintos escenarios:
+ * - Arreglos ordenados
+ * - Arreglos desordenados
+ * - Arreglos vacíos
+ * - Un solo elemento
+ * - Elementos repetidos
+ * 
+ * @author Cristopher Chavez
+ * @author Fabricio Estrada
+ */
 
 public class SortTest {
     @Test
