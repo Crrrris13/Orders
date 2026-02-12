@@ -2,7 +2,7 @@
 
 ### Autores
 - Fabricio Estrada 25230
-- Cristopher Chavez 
+- Cristopher Chavez 25199
 
 ### Fecha
 10 de febrero de 2026
